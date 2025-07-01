@@ -1,0 +1,17 @@
+{
+    "variables": [
+        "ltv",
+        "average_age",
+        "credit_score",
+        "last_six_month_defaulted_no",
+        "credit_history"
+    ],
+    "coefficients": {
+        "const": -3.2501849015522306,
+        "ltv": 0.024420617111066616,
+        "average_age": 0.003716838588786927,
+        "credit_score": -0.0004994542895651659,
+        "last_six_month_defaulted_no": 0.27152045192605667,
+        "credit_history": -0.003944415786301036
+    }
+}
